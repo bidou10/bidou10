@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Florent Nivel</h1>
 <h3 align="center">A passionate Flutter Mobile developer from France</h3>
 
+<p align="left">I discovered a passion for mobile applications, I have a constant desire to learn in this field, my curiosity has no limit, I love the field of food in particular street food and I love the field of e commerce.
+Mobile Development is my IKIGAI</p>
 <img src="https://github.com/bidou10/bidou10/blob/main/flutter-dev.jpg" width="1024" >
 
 
-- 🌱 I’m currently learning **Flutter,Kotlin**
+- 🌱 I’m currently learning **Flutter,Kotlin,Swift**
 
 - 👯 I’m looking to collaborate on **mobile application projects, I'm most comfortable with flutter but I'm ready to challenge myself and learn other languages to complete a mobile project.**
 
