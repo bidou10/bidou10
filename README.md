@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florent Nivel</h1>
 <h3 align="center">A passionate Flutter Mobile developer from France</h3>
 
-<img src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" width="512" >
+<img src="https://github.com/bidou10/bidou10/blob/main/flutter-dev.jpg" width="512" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bidou10" alt="bidou10" /></a> </p>
 
