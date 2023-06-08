@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Florent Nivel</h1>
 <h3 align="center">A passionate Flutter Mobile Developer</h3>
-<p align="center">Mobile Development is my IKIGAI</p>
+<h5 align="center">Mobile Development is my IKIGAI</h5>
 
-<p align="left">I discovered a passion for mobile applications, I have a constant desire to learn in this field, my curiosity has no limit, I love the field of food in particular street food and I love the field of e commerce.
-Mobile Development is my IKIGAI</p>
+<p align="left">I discovered a passion for mobile applications, I have a constant desire to learn in this field, my curiosity has no limit, I love the field of food in particular street food and I love the field of e commerce.</p>
 
 <img src="https://github.com/bidou10/bidou10/blob/main/flutter-dev.jpg" width="1024" >
 
@@ -26,6 +25,11 @@ Mobile Development is my IKIGAI</p>
 
 - 👨🏾‍💻 Example of Projects **Flutter**
 <img src="https://github.com/bidou10/bidou10/blob/main/flutter_food_app.gif" width="1024" >
+
+<p align="left">I really like mobile development, actually i work alone but i hope to work in a team. Victories and successes are best enjoyed as a team</p>
+
+- 👨🏾‍💻 Example of Projects **Swift**
+<img src="https://github.com/bidou10/bidou10/blob/main/swift_app.gif" width="1024" >
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bidou10&show_icons=true&locale=en&layout=compact" alt="bidou10" /></p>
 
