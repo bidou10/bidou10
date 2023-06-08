@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Florent Nivel</h1>
 <h3 align="center">A passionate Flutter Mobile Developer</h3>
-<h5 align="center">Mobile Development is my IKIGAI</h5>
+<h4 align="center">📱Mobile Development is my IKIGAI</h4>
 
 <p align="left">I discovered a passion for mobile applications, I have a constant desire to learn in this field, my curiosity has no limit, I love the field of food in particular street food and I love the field of e commerce.</p>
 
