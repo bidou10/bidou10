@@ -28,10 +28,7 @@
 
 <p align="left">I really like mobile development, actually i work alone but i hope to work in a team. Victories and successes are best enjoyed as a team</p>
 
-- 👨🏾‍💻 Example of Projects **Swift**
-<img src="https://github.com/bidou10/bidou10/blob/main/swift_app.gif" width="1024" >
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bidou10&show_icons=true&locale=en&layout=compact" alt="bidou10" /></p>
 
 
 
